@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ratburrow.app",
+      "sha256_cert_fingerprints": [
+        "C7:A6:FC:76:F1:41:0E:D0:45:D0:0B:9B:32:28:52:F5:26:11:2D:A3:75:0F:C0:C2:6E:6C:95:C4:6A:29:2B:B5"
+      ]
+    }
+  }
+]
